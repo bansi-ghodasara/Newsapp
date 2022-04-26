@@ -4,7 +4,7 @@ export class Newsitem extends Component {
   render() {
     return (
       <div>
-          This is a news item11.
+          This is a news item.
       </div>
     )
   }
